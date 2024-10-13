@@ -1,7 +1,0 @@
-# Local Netlify folder
-node_modules/
-.DS_Store
-.hugo_build.lock
-static/.DS_Store
-docs/**
-!docs/.docs
