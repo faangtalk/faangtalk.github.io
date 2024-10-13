@@ -1,3 +1,5 @@
+dependencies:
+  pnpm: 9.12.1
 devDependencies:
   autoprefixer: 7.2.6
   cssnano: 3.10.0
@@ -2044,6 +2046,13 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha512-WhcHk576xg9y/iv6RWOuroZgsqvCbJN+XGvAypCJwLAYs2iWDp5LUmvaCdV6JR2O0SMBf8l6p7A94AyLCFVMlQ==
+  /pnpm/9.12.1:
+    dev: false
+    engines:
+      node: '>=18.12'
+    hasBin: true
+    resolution:
+      integrity: sha512-5aflKkGDoC1ZMQV/eg2/+dXpzjFh4z+miuOSElt5KCqKikcKUd/IoO2GIhRC6y+1cBmwmQ7ST6tRm/DhvFzPxA==
   /posix-character-classes/0.1.1:
     dev: true
     engines:
@@ -3326,6 +3335,7 @@ packages:
 specifiers:
   autoprefixer: ^7.1.1
   cssnano: ^3.10.0
+  pnpm: ^9.12.1
   postcss-cli: ^4.0.0
   postcss-import: ^10.0.0
   stylelint: ^7.10.1

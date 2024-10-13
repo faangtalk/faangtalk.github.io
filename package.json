@@ -21,5 +21,8 @@
     "stylelint-config-fresh": "^1.0.1",
     "stylelint-config-standard": "^16.0.0",
     "stylelint-order": "^0.4.4"
+  },
+  "dependencies": {
+    "pnpm": "^9.12.1"
   }
 }
