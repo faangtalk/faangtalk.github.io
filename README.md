@@ -5,7 +5,7 @@ https://faangtalk.github.io
 
 Канал с анонсами канала https://youtube.com/@faangtalk/
 
-Чат по подготовке к интервью https://t.me/faangtalk
+Телеграм чат по подготовке к интервью https://t.me/faangtalk
 
 ```
 # brew install hugo
