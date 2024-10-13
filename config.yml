@@ -10,8 +10,8 @@ uglyURLs: false
 metaDataFormat: "yaml"
 LanguageCode: ru
 params:
-  itunes: https://podcasts.apple.com/podcast/id
-  android: https://podcasts.google.com/feed/id
+  itunes: https://podcasts.apple.com/podcast/id6736882581
+  youtube: https://www.youtube.com/watch?v=PYZVfTor2hM&list=PLNLPaBDVlFrME0ua6ZI9ce6fHMjmdkjrq
   feed: /index.xml
   yandex: https://music.yandex.ru/album/{id}
   desc: Подкаст о систем дизайне в компании FAANG
