@@ -17,7 +17,7 @@
     <itunes:keywords>technology,faang</itunes:keywords>
     <itunes:subtitle>{{ .Site.Params.Desc }}</itunes:subtitle>
     <itunes:summary>{{ .Site.Params.Summary }}</itunes:summary>
-     <itunes:category text="Technologies"/>
+    <itunes:category text="Technology"/>
     <itunes:owner>
       <itunes:name>DimaV, Sergey, Evgenii</itunes:name>
       <itunes:email>faangtalk@gmail.com</itunes:email>
