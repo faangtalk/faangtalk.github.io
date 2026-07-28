@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on FaangTalk</title><link>https://faangtalk.github.io/categories/</link><description>Recent content in Categories on FaangTalk</description><generator>Hugo</generator><language>ru</language><atom:link href="https://faangtalk.github.io/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Categories on FaangTalk</title><link>https://faangtalk.github.io/categories/</link><description>Recent content in Categories on FaangTalk</description><language>ru</language><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><itunes:author>FaangTalk.org</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="https://faangtalk.github.io//img/logo.png"/><itunes:keywords>technology,faang</itunes:keywords><itunes:subtitle>Подкаст о систем дизайне в компании FAANG</itunes:subtitle><itunes:summary>Изучаем систем дизайн, архитектуру и алгоритмы</itunes:summary><itunes:category text="Technology"/><itunes:owner><itunes:name>DimaV, Sergey, Evgenii</itunes:name><itunes:email>faangtalk@gmail.com</itunes:email></itunes:owner><atom:link href="https://faangtalk.github.io/categories/" rel="self" type="application/rss+xml"/><item><title>#FaangTalk 70 - Personalized News Feed | Разбор кейса ML System Design Interview</title><link>https://faangtalk.github.io/episode/70/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://faangtalk.github.io/episode/70/</guid><description>&lt;p&gt;&lt;a href="https://www.youtube.com/live/ZY6NbHMYdLk"&gt;#FaangTalk 70 - Personalized News Feed | Разбор кейса ML System Design Interview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обсуждаем главу 10 Personalized News Feed из книги ML System Design Interview от Алекса Ксю. В гостях Павел Елизаров&lt;/p&gt;
+&lt;p&gt;Chapters&lt;/p&gt;
+&lt;p&gt;00:00 Введение в ML System Design Interview&lt;/p&gt;
+&lt;p&gt;02:50 Этапы интервью и условия задачи&lt;/p&gt;
+&lt;p&gt;06:05 Определение метрик и целей системы&lt;/p&gt;
+&lt;p&gt;08:57 Сигналы пользователей и их влияние на персонализацию&lt;/p&gt;
+&lt;p&gt;12:09 Явные и неявные сигналы пользователей&lt;/p&gt;
+&lt;p&gt;15:52 Метрики вовлеченности и их значение&lt;/p&gt;
+&lt;p&gt;19:34 Серендипити: Счастливые случайности в контенте&lt;/p&gt;
+&lt;p&gt;23:22 Явные и неявные сигналы в контенте&lt;/p&gt;
+&lt;p&gt;30:16 Фичи и их роль в рекомендательных системах&lt;/p&gt;
+&lt;p&gt;31:44 Построение рекомендательных систем&lt;/p&gt;
+&lt;p&gt;38:12 Фичи постов и их анализ&lt;/p&gt;
+&lt;p&gt;43:01 Фичи пользователей и их влияние&lt;/p&gt;
+&lt;p&gt;46:43 Моделирование и оценка результатов&lt;/p&gt;
+&lt;p&gt;47:12 Оптимизация нейронных сетей и многозадачность&lt;/p&gt;
+&lt;p&gt;49:43 Методы обучения и адаптации моделей&lt;/p&gt;
+&lt;p&gt;51:48 Функции потерь и их применение&lt;/p&gt;
+&lt;p&gt;54:04 Оценка моделей и метрики&lt;/p&gt;
+&lt;p&gt;56:39 Оптимизация вычислительных ресурсов&lt;/p&gt;
+&lt;p&gt;59:18 Сервинг моделей и этапы обработки данных&lt;/p&gt;
+&lt;p&gt;01:01:35 Модели и новые типы контента&lt;/p&gt;
+&lt;p&gt;01:04:28 A/B тестирование и его значение&lt;/p&gt;
+&lt;p&gt;01:15:34 Персонализированные рекомендательные системы&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZY6NbHMYdLk?si=i8R_jPn4qBkep3Vy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</description><itunes:explicit>no</itunes:explicit><itunes:image href="https://faangtalk.github.io/static/img/thumbnails/70.jpg"/><itunes:subtitle>&lt;p&gt;&lt;a href="https://www.youtube.com/live/ZY6NbHMYdLk"&gt;#FaangTalk 70 - Personalized News Feed | Разбор кейса ML System Design Interview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Обсуждаем главу 10 Personalized News Feed из книги ML System Design Interview от Алекса Ксю. В гостях Павел Елизаров&lt;/p&gt;
+&lt;p&gt;Chapters&lt;/p&gt;
+&lt;p&gt;00:00 Введение в ML System Design Interview&lt;/p&gt;
+&lt;p&gt;02:50 Этапы интервью и условия задачи&lt;/p&gt;
+&lt;p&gt;06:05 Определение метрик и целей системы&lt;/p&gt;
+&lt;p&gt;08:57 Сигналы пользователей и их влияние на персонализацию&lt;/p&gt;
+&lt;p&gt;12:09 Явные и неявные сигналы пользователей&lt;/p&gt;
+&lt;p&gt;15:52 Метрики вовлеченности и их значение&lt;/p&gt;</itunes:subtitle><itunes:duration/><enclosure url="https://storage.yandexcloud.net/faangtalk/70-faangtalk-personalized-news-feed.mp3" type="audio/mpeg" length=""/></item></channel></rss>
