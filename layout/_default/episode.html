@@ -10,7 +10,7 @@
         <!-- <h2></h2> -->
         <ul class="People">
           {{ range $person := .Params.people }}
-            <a href="{{ index $.Site.Data.people $person "url" }}">
+            <a href="{{ index hugo.Data.people $person "url" }}">
               <li class="Person">
                 <img class="Person__Avatar" src="{{ printf "/img/people/%s.jpg" $person }}">
                 <div class="Person_Name">{{ $person }}</div>

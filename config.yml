@@ -5,10 +5,11 @@ contentdir: "content"
 layoutdir: "layout"
 staticdir: "static"
 publishdir: "docs"
-paginate: 100
 uglyURLs: false
 metaDataFormat: "yaml"
-LanguageCode: ru
+locale: ru
+pagination:
+  pagerSize: 100
 params:
   itunes: https://podcasts.apple.com/podcast/id6736882581
   android: https://www.youtube.com/watch?v=PYZVfTor2hM&list=PLNLPaBDVlFrME0ua6ZI9ce6fHMjmdkjrq
